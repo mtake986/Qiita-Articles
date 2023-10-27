@@ -1,12 +1,12 @@
 ---
 title: ベルマンフォードアルゴリズム
 tags:
-  - Bellman-Ford
-  - ベルマンフォード
   - アルゴリズム
   - グラフ理論
+  - ベルマンフォード
+  - Bellman-Ford
 private: false
-updated_at: "2023-10-28T04:27:52+09:00"
+updated_at: '2023-10-28T05:00:53+09:00'
 id: 7b118bae862a10454d88
 organization_url_name: null
 slide: false
